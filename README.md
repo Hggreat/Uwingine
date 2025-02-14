@@ -73,7 +73,7 @@ By combining automated query handling with reliable data sourcing, UWingine offe
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Rudra1402/UWingine.git
+   git clone https://github.com/Hggreat/Uwingine
    cd UWingine
 
 2. **Go to the Server Directory**
